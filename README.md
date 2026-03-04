@@ -4,6 +4,10 @@ macOS menu bar app that monitors listening ports and lets you kill processes ins
 
 ![macOS](https://img.shields.io/badge/macOS-13.0+-blue) ![Swift](https://img.shields.io/badge/Swift-5.9-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="PortMan screenshot" width="520">
+</p>
+
 ## What it does
 
 - **Menu bar icon** — click to see all listening TCP ports on your machine
